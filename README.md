@@ -1,10 +1,10 @@
 # Simple CRUD operations & Security
 This project covers basic CRUD operations and Restrict Access Based On Roles using Spring Security
 ## Features
--The project is implemented using the Controller-Service-Repository pattern.
--Implements the DTO pattern using ModelMapper.
--Uses MYSQL as a database.
--The project utilizes a custom authentication system with bcrypt-encrypted passwords and role-based access restrictions. User roles and passwords are managed in the project's database.
+- The project is implemented using the Controller-Service-Repository pattern.
+- Implements the DTO pattern using ModelMapper.
+- Uses MYSQL as a database.
+- The project utilizes a custom authentication system with bcrypt-encrypted passwords and role-based access restrictions. User roles and passwords are managed in the project's database.
 ## Endpoints
 ### GET 
 
