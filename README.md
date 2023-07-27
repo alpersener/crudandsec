@@ -14,6 +14,9 @@ This project covers basic CRUD operations and Restrict Access Based On Roles usi
 | PUT         | /api/persons      | Update      | MANAGER  |
 | DELETE      | /api/persons/{id} | Delete      | ADMIN    |
 
+## Database schema
+![schema](https://github.com/alpersener/crudandsec/blob/master/database.jpg)
+
 
 ## Endpoints
 ### GET 
