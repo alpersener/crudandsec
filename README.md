@@ -9,7 +9,7 @@ This project covers basic CRUD operations and Restrict Access Based On Roles usi
 | HTTP METHOD | Endpoint          | CRUD        | Role     |
 |-------------|-------------------|-------------|----------|
 | GET         | /api/persons      | Read All    | EMPLOYEE |
-| GET         | /api/person/{id}  | Read Single | EMPLOYEE |
+| GET         | /api/persons/{id} | Read Single | EMPLOYEE |
 | POST        | /api/persons      | Create      | MANAGER  |
 | PUT         | /api/persons      | Update      | MANAGER  |
 | DELETE      | /api/persons/{id} | Delete      | ADMIN    |
